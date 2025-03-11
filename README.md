@@ -29,4 +29,4 @@
 ![Vista previa del proyecto](assets/amigo-secreto.png)
 
 ## Autor
-Desarrollado por [Jose Luis Martínez].
+Desarrollado por **Jose Luis Martínez**.
